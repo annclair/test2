@@ -4,3 +4,10 @@ body
     font-family: 'Trebuchet MS', Arial, sans-serif;
     color: #181818;
 }
+h1{
+  font-size : 14px;
+  text-decoration: underline;
+}
+p{
+  font-size : 11px;
+}
